@@ -1,6 +1,9 @@
 # Valorant Mod
 A mod for the official Venge Client.
 
+- **THIS MOD WILL BREAK EVERY UPDATE!** *Do not use the mod if the current Venge version is not supported.*
+- *Current Supported Version:* **v1.0.68**
+
 # Features
 - New sleek gun models and textures based off the Vandal and the Operator.
 - Satisfying kill sounds just like VALORANT.
