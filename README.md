@@ -10,7 +10,7 @@ A mod for the official Venge Client.
 - Custom kill icons and banners made by Znyp.
 
 # Usage
-1. Download the [latest release here](hhttps://github.com/KruzShady/Valorant-Mod/releases/latest/download/Valorant-Mod.zip "Latest Release").
+1. Download the [latest release here](https://github.com/KruzShady/Valorant-Mod/releases/latest/download/Valorant-Mod.zip "Latest Release").
 2. Open **Valorant-Mod.zip**
 3. Drag the contents of **Valorant-Mod.zip** into your Venge Client resource swapper
 4. Launch or restart your client
