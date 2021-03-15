@@ -12,3 +12,9 @@ A mod for the official Venge Client.
 3. Open the **Mod Files** folder.
 4. Drag the contents of the **Mod Files** folder into your Venge Client resource swapper
 5. Launch or restart your client
+
+# Credits
+- Mod Concept - VALORANT by Riot Games
+- Weapon Models & Textures - VALORANT by Riot Games
+- Kill Sounds - VALORANT by Riot Games
+- Kill Icons & Banners - Zynp
