@@ -11,5 +11,4 @@ A mod for the official Venge Client.
 2. Open Valorant-Mod.zip
 3. Open the **Mod Files** folder.
 4. Drag the contents of the **Mod Files** folder into your Venge Client resource swapper
-- This is normally located at C:/Users/Your PC Name/Documents/Venge Client/Resource Swapper/
 5. Launch or restart your client
